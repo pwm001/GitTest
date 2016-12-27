@@ -7,6 +7,7 @@
         Console.WriteLine("This is a test 4")
         Console.WriteLine("This is a test 5")
         Console.WriteLine("This is a test 6")
+        Console.WriteLine("This is a test 8")
     End Sub
 
 End Module
