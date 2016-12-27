@@ -1,0 +1,4 @@
+# GitTest
+Following example
+
+Testing ...
