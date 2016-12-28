@@ -10,6 +10,8 @@ Module Module2
         Console.WriteLine("This is a test 7")
         Console.WriteLine("This is a test 8")
         Console.WriteLine("This is a test 9")
+        Console.WriteLine("This is a test 10")
+
     End Sub
 
 End Module
